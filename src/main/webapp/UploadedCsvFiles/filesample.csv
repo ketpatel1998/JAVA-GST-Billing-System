@@ -1,0 +1,6 @@
+srno,productname,departmentname,baseprice,sellingprice,quantity,cgst,sgst
+1,item1,dept1,120,143,100,2.5,2.5
+2,item2,dept2,100,112,10,2.5,2.5
+3,item3,dept1,150,175,50,5,5
+4,item4,dept3,200,233,100,5,5
+5,item5,dept2,50,55,150,2.5,2.5

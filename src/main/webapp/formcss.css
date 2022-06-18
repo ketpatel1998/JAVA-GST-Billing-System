@@ -1,0 +1,46 @@
+  .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+}
+.divmain{
+  margin:20px;
+}
+nav{
+  margin-bottom: 0px;
+  background-color: grey;
+  color: white;
+}
+.btngenratebill
+{
+  float: right;
+}
+input{
+}
+.div11{
+
+  border :1px solid black;
+  padding: 20px;
+  padding-bottom: 40px;
+}
+.div12{
+  padding: 50px;
+}
+.div121{
+  margin: 5px;
+
+}
+.div122{
+  margin: 5px;
+}
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {}
+    
+    
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+    
+
